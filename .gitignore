@@ -1,0 +1,37 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+test_transformer
+fashion_test
+fashion_test_vit
+
+# Object files
+*.o
+*.obj
+
+# CMake
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
