@@ -1,7 +1,3 @@
-//
-// Created by JAYAN on 30/06/2025.
-//
-
 #ifndef ACTIVATION_FUNCTIONS_H
 #define ACTIVATION_FUNCTIONS_H
 

@@ -1,6 +1,4 @@
-//
-// Created by JAYAN on 30/06/2025.
-//
+
 
 #ifndef MATRIX_OPS_H
 #define MATRIX_OPS_H

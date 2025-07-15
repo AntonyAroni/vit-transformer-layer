@@ -1,6 +1,4 @@
-//
-// Created by JAYAN on 03/07/2025.
-//
+
 
 #ifndef LAYER_NORM_H
 #define LAYER_NORM_H

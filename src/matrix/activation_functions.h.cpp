@@ -1,6 +1,4 @@
-//
-// Created by JAYAN on 30/06/2025.
-//
+
 
 #include "../../include/matrix/activation_functions.h"
 #include "../../include/matrix/matrix_ops.h"

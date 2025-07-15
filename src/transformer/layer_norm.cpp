@@ -1,6 +1,3 @@
-//
-// Created by JAYAN on 03/07/2025.
-//
 
 #include "../../include/transformer/layer_norm.h"
 #include "../../include/matrix/activation_functions.h"
